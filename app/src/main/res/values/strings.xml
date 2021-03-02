@@ -1,3 +1,15 @@
 <resources>
+
     <string name="app_name">graduationProject</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Real Estates</string>
+    <string name="desc_slide1">لا يمكن أن تكون رجل كامل ما لم تمتلك قطعة أرض</string>
+    <string name="title_slide2">Accommodation for you and your family</string>
+    <string name="desc_slide2">It will  keep you updated on battery charging status through notification and home screen widget</string>
+    <string name="title_slide3">Alert on 100%</string>
+    <string name="desc_slide3">It will alert you when battery reaches 100%</string>
+    <string name="home">HOME</string>
 </resources>
